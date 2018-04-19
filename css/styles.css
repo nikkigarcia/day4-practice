@@ -1,0 +1,57 @@
+.logo{
+  height: 50px;
+  width: 80px;
+  background-color: black;
+  margin-left:20px;
+}
+.container-fluid{
+  background-color: gray;
+}
+.hero{
+  height: 400px;
+  width: 100%;
+  background-color: black;
+}
+
+.pad20{
+  padding: 20px;
+}
+.black{
+  background-color: black;
+}
+.h120{
+  height: 120px;
+}
+.pad10{
+  padding-left: 10px;
+}
+.padb50{
+  padding-bottom: 50px;
+}
+.padr10{
+  padding-right: 10px;
+}
+.hw{
+  height: 200px;
+  width: 200px;
+}
+.hw4{
+  height: 200px;
+  width: 800px;
+}
+.padt50{
+  padding-top: 50px;
+}
+.mar{
+  margin-right: 50px;
+}
+.marl{
+  margin-left: 10px;
+}
+.marr{
+  margin-right: 10px;
+}
+.hw2{
+  height: 50px;
+  width: 400px;
+}
